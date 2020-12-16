@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@300&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #fee2e2;
+}
+
+.inline {
+  display: inline;
+  padding: 1rem;
+}
+
+.container {
+  font-family: "Kalam", cursive;
+  border: 0.1rem solid black;
+  border-radius: 0.5rem;
+  box-shadow: 0.5em;
+  padding: 1rem;
+  margin: 0.5rem;
+  font-size: 95%;
+  font-weight: 500;
+}
+
+.container-Right {
+  font-family: "Kalam", cursive;
+  border: 0.1rem solid black;
+  border-radius: 0.5rem;
+  box-shadow: 0.5em;
+  padding: 1rem;
+  margin: 1rem auto;
+  text-align: left;
+  list-style: none;
+  width: 40%;
+  height: 50%;
+  display: block;
+  color: white;
+  background-color: #1f2937;
+  font-size: 110%;
+  font-weight: 500;
+}
+
+.heading {
+  font-size: 200%;
+  font-family: "Kalam", cursive;
+  text-align: center;
+  padding: 0.5rem;
+  font-weight: 800;
+  font-style: bold;
+}
+
+.primary-link {
+  color: black;
+  border-radius: 0.5rem;
+  border: 1px solid #3730a3;
+  padding: 0.4rem;
+  text-decoration: none;
+  margin: 0.5rem;
+  display: block;
+  width: 16%;
+  background-color: white;
+  font-size: 110%;
+  font-weight: 400;
+  font-family: "Kalam", cursive;
+  text-align: center;
+  font-style: bold;
+}
+
+.section {
+  padding: 1rem;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  /**  text-align: center;**/
+}
